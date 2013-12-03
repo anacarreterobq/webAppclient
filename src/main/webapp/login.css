@@ -7,8 +7,11 @@
 }
 
 body{
-	background:#292931;
+
 	font-family:'Open Sans';
+}
+#frame{
+    background-image:url('Talking_animals_banner.png');
 }
 label{
 	font-family:icon;
