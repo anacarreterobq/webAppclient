@@ -124,17 +124,17 @@ label{
 	display:block;
 	float:left;
 	-webkit-font-smoothing: antialiased;
-/*text-shadow:0 -1px 0 #000;*/	
 }
+/*
 #option a{
 	-webkit-font-smoothing: antialiased;
 	color:#6c5B6d;
-	/*text-shadow:0 -1px 0 #000;*/
+	/text-shadow:0 -1px 0 #000;
 	font-size:12px;
 	display:block;
 	float:right;
 	margin:26px 15px;
-}
+}  */
 
 input{padding-left:40px;}
 #block:active > #block:before{
