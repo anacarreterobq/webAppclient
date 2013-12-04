@@ -202,5 +202,9 @@ input::-webkit-validation-bubble-arrow {
 }
 
 footer {
+    -moz-box-shadow: 10px 10px 5px #fff;
+    -webkit-box-shadow: 10px 10px 5px #fff;
+    box-shadow: 10px 10px 5px #fff;
+    margin-top: 220px;
     margin-bottom:0;
 }
